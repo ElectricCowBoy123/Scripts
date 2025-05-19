@@ -1,0 +1,10 @@
+{
+    "name": "CompanyHash",
+    "calculatedName": "companyhash",
+    "description": "- Company hash obtained from the BitDefender GravityZone Portal, without the square brackets.",
+    "type": "TEXT",
+    "source": "LITERAL",
+    "defaultValue": "",
+    "required": true,
+    "valueList": []
+}

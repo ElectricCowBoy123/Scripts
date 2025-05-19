@@ -1,0 +1,2 @@
+%echo off
+gpupdate /force
